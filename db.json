@@ -1,0 +1,260 @@
+{
+  "getAppDataInfo": {
+    "message": null,
+    "result": {
+      "disaster_prevention_info": {
+        "data": [
+          {
+            "category": 1,
+            "contents": "防災情報",
+            "display_time": "2022-04-05 10:51",
+            "id": 238,
+            "subject": "防災情報",
+            "url": "https://www.google.com/"
+          },
+          {
+            "category": 1,
+            "contents": "緊急テスト\n緊急テスト\n緊急テスト\n緊急テスト\n緊急テスト\n緊急テスト\n-2",
+            "display_time": "2022-04-05 12:29",
+            "id": 1,
+            "subject": "緊急テスト-2",
+            "url": "https://www.google.com/",
+            "reception_flag": true,
+            "answer_no": 1,
+            "options": [
+              {
+                "no": 1,
+                "answer": "Hello anh em"
+              },
+              {
+                "no": 2,
+                "answer": "Hello anh em 2"
+              },
+              {
+                "no": 3,
+                "answer": "Hello anh em 3"
+              },
+              {
+                "no": 4,
+                "answer": "Hello anh em 4"
+              }
+            ]
+          },
+          {
+            "category": 1,
+            "contents": "緊急テスト-2",
+            "display_time": "2022-04-05 12:29",
+            "id": 2,
+            "subject": "緊急テスト-2",
+            "url": "",
+            "reception_flag": false,
+            "answer_no": 1,
+            "options": [
+              {
+                "no": 1,
+                "answer": "Hello anh em"
+              },
+              {
+                "no": 2,
+                "answer": "Hello anh em 2"
+              },
+              {
+                "no": 3,
+                "answer": "Hello anh em 3"
+              },
+              {
+                "no": 4,
+                "answer": "Hello anh em 4"
+              }
+            ]
+          },
+          {
+            "category": 1,
+            "contents": "緊急テスト-2",
+            "display_time": "2022-04-05 12:29",
+            "id": 3,
+            "subject": "緊急テスト-2",
+            "url": "",
+            "reception_flag": true,
+            "options": [
+              {
+                "no": 1,
+                "answer": "Hello anh em"
+              },
+              {
+                "no": 2,
+                "answer": "Hello anh em 2"
+              },
+              {
+                "no": 3,
+                "answer": "Hello anh em 3"
+              },
+              {
+                "no": 4,
+                "answer": "Hello anh em 4"
+              }
+            ]
+          }
+        ],
+        "new_flag": true,
+        "power_outage_occurrence_info": [],
+        "power_outage_recovery_info": [],
+        "urgent_data_info": {}
+      },
+      "operation_status": {
+        "exhaust_stack_value": "7",
+        "generator_output": "0-0",
+        "new_flag": true,
+        "twitter": [
+          {
+            "tweet_content": "2022年4月2日（土）16時27分頃、茨城県北部を震源とする地震（東海村で震度4）が発生しましたが、詳細点検の結果、東海・東海第二発電所の施設への影響はありませんでした。",
+            "tweet_id": "1510195427215257600",
+            "tweet_time": "2022-04-02 10:00",
+            "url": "[]"
+          },
+          {
+            "tweet_content": "2022年4月2日（土）16時27分頃、茨城県北部を震源とする地震（東海村で震度4）が発生しましたが、現時点において、東海・東海第二発電所の施設の異常はありません。詳細点検中です。",
+            "tweet_id": "1510164884448702469",
+            "tweet_time": "2022-04-02 07:59",
+            "url": "[]"
+          },
+          {
+            "tweet_content": "2022年3月16日（水）23時36分頃、福島県沖を震源とする地震（東海村で震度５弱）が発生しましたが、詳細点検の結果、この地震による東海・東海第二発電所の施設への影響はありませんでした。",
+            "tweet_id": "1504261232865382400",
+            "tweet_time": "2022-03-17 01:00",
+            "url": "[]"
+          },
+          {
+            "tweet_content": "【お知らせ】福島県沖を震源とする地震による施設への影響について\n　2022年3月16日（水）23時36分頃、福島県沖を震源とする地震（東海村で震度5弱）が発生しましたが、現時点において、東海・東海第二発電所の施設の異常はありません。詳細点検中です。",
+            "tweet_id": "1504113826312065025",
+            "tweet_time": "2022-03-16 15:14",
+            "url": "[]"
+          },
+          {
+            "tweet_content": "【お知らせ】東海・東海第二発電所の近況についてお知らせします。詳細は当社HPをご覧ください。",
+            "tweet_id": "1501813936907186178",
+            "tweet_time": "2022-03-10 06:55",
+            "url": "[\"https://t.co/diGj9RGOFZ\"]"
+          },
+          {
+            "tweet_content": "【プレスリリース】当社は、本日、東海第二発電所の圧縮減容装置導入に係る原子炉設置変更許可申請について、原子力規制委員会から許可をいただきましたのでお知らせいたします。",
+            "tweet_id": "1501469826048430082",
+            "tweet_time": "2022-03-09 08:07",
+            "url": "[\"https://t.co/eZrNdn7PbA\"]"
+          },
+          {
+            "tweet_content": "【プレスリリース】当社は、本日、東海第二発電所の原子炉設置変更許可に係る工事計画変更の届出並びに特定重大事故等対処施設に係る設計及び工事計画認可の申請を原子力規制委員会に行いましたのでお知らせいたします。詳細は当社ＨＰをご覧くださ… ",
+            "tweet_id": "1498212983607939072",
+            "tweet_time": "2022-02-28 08:26",
+            "url": "[\"https://t.co/y0jEBQB36w\"]"
+          },
+          {
+            "tweet_content": "【お知らせ】東海・東海第二発電所の近況についてお知らせします。詳細は当社HPをご覧ください。\n",
+            "tweet_id": "1491654778505424896",
+            "tweet_time": "2022-02-10 06:06",
+            "url": "[\"https://t.co/rBhmfTIEeT\"]"
+          },
+          {
+            "tweet_content": "【お知らせ】東海・東海第二発電所の近況についてお知らせします。詳細は当社HPをご覧ください。\n",
+            "tweet_id": "1481546812461043713",
+            "tweet_time": "2022-01-13 08:41",
+            "url": "[\"https://t.co/aQKCZH1ySj\"]"
+          },
+          {
+            "tweet_content": "2021年12月12日（日）12時31分頃、茨城県南部を震源とする地震（東海村で震度2）が発生しましたが、この地震による東海・東海第二発電所への影響はありません。",
+            "tweet_id": "1469883762108342272",
+            "tweet_time": "2021-12-12 04:16",
+            "url": "[]"
+          },
+          {
+            "tweet_content": "2021年12月12日（日）12時31分頃、茨城県南部を震源とする地震（東海村で震度2）が発生しましたが、この地震による東海・東海第二発電所への影響はありません。",
+            "tweet_id": "14698837621083422721",
+            "tweet_time": "2021-12-12 04:16",
+            "url": "[]"
+          }
+        ],
+        "water_outlet_value": "12"
+      },
+      "weather": {
+        "chances_of_rain": 10,
+        "date": "20220811",
+        "display_weathers": "晴れ",
+        "highest_temperatures": 34,
+        "highest_temperatures_difference": -1,
+        "is_heat_stroke_alert": false,
+        "lowest_temperatures": 25,
+        "lowest_temperatures_difference": -1,
+        "weathers": 100,
+        "week_weather": [
+          {
+            "chances_of_rain": 10,
+            "date": "20220812",
+            "display_weathers": "晴れ",
+            "highest_temperatures": 33,
+            "highest_temperatures_difference": -1,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 27,
+            "lowest_temperatures_difference": 2,
+            "weathers": 100
+          },
+          {
+            "chances_of_rain": 80,
+            "date": "20220813",
+            "display_weathers": "雨時々止む",
+            "highest_temperatures": 30.1,
+            "highest_temperatures_difference": -2.9,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 25.5,
+            "lowest_temperatures_difference": -1.5,
+            "weathers": 302
+          },
+          {
+            "chances_of_rain": 70,
+            "date": "20220814",
+            "display_weathers": "曇り時々雨",
+            "highest_temperatures": 32.1,
+            "highest_temperatures_difference": 2,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 25.1,
+            "lowest_temperatures_difference": -0.4,
+            "weathers": 203
+          },
+          {
+            "chances_of_rain": 40,
+            "date": "20220815",
+            "display_weathers": "曇り",
+            "highest_temperatures": 31.3,
+            "highest_temperatures_difference": -0.8,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 24.5,
+            "lowest_temperatures_difference": -0.6,
+            "weathers": 200
+          },
+          {
+            "chances_of_rain": 40,
+            "date": "20220816",
+            "display_weathers": "曇り",
+            "highest_temperatures": 34.4,
+            "highest_temperatures_difference": 3.1,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 24.5,
+            "lowest_temperatures_difference": 0,
+            "weathers": 200
+          },
+          {
+            "chances_of_rain": 80,
+            "date": "20220817",
+            "display_weathers": "曇り一時雨",
+            "highest_temperatures": 28.9,
+            "highest_temperatures_difference": -5.5,
+            "is_heat_stroke_alert": false,
+            "lowest_temperatures": 23.7,
+            "lowest_temperatures_difference": -0.8,
+            "weathers": 202
+          }
+        ]
+      }
+    },
+    "statusCode": 200
+  }
+}
